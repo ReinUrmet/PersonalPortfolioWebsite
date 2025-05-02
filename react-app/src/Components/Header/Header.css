@@ -1,0 +1,18 @@
+.Header {
+    color: white;
+}
+
+
+.socials {
+    margin: 10px 0;
+}
+
+.socials a {
+    margin: 0 10px;
+    display: inline-block;
+    transition: transform 0.2s;
+}
+
+.socials a:hover {
+    transform: scale(1.2);
+}
